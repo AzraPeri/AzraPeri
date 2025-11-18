@@ -1,28 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azra Şilan Peri</h1>
-<h3 align="center">Software Engineering Student & Data Analyst</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azraperi&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/azrasilanperi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" />
-</a>
-<a href="https://kaggle.com/azrailanperi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" height="35" />
-</a>
-<a href="https://instagram.com/fairydata" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" />
-</a>
-<a href="https://medium.com/azraperi497" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" />
-</a>
-</p>
-
+<h1 align="center">Hi 👋, I'm Azra Şilan Peri</h1> <h3 align="center">I'm a Student at Software Engineering</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=azraperi&label=Profile%20views&color=0e75b6&style=flat" alt="azraperi" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/azrasilanperi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azrasilanperi" height="30" width="40" /></a> <a href="https://kaggle.com/azrailanperi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="azrailanperi" height="30" width="40" /></a> <a href="https://instagram.com/fairydata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fairydata" height="30" width="40" /></a> <a href="https://medium.com/azraperi497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="azraperi497" height="30" width="40" /></a> </p>
 ---
 
 ## 🛠️ Languages & Tools (Only the ones you want!)
